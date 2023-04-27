@@ -1,4 +1,4 @@
-# Exploring Loggerhead Turtle Diving Behavior in the Greater Atlantic Region
+# Exploring Loggerhead Turtle Dive Behavior in the Greater Atlantic Region
 
 [![gitleaks](https://github.com/jmhatch-NOAA/READ-PSB-TE-Cc_Dive_Behavior/actions/workflows/secretScan.yml/badge.svg)](https://github.com/jmhatch-NOAA/READ-PSB-TE-Cc_Dive_Behavior/actions/workflows/secretScan.yml)
 
