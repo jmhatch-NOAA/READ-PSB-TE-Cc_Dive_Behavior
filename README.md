@@ -2,7 +2,7 @@
 
 [![gitleaks](https://github.com/jmhatch-NOAA/READ-PSB-TE-Cc_Dive_Behavior/actions/workflows/secretScan.yml/badge.svg)](https://github.com/jmhatch-NOAA/READ-PSB-TE-Cc_Dive_Behavior/actions/workflows/secretScan.yml)
 
-A research project to understand and forecast changes in loggerhead turtle distribution and dive patterns in the Greater Atlantic Region
+A research project to understand and forecast changes in loggerhead turtle distribution and dive patterns in the Greater Atlantic Region.
 
 ### Legal disclaimer
 
@@ -10,7 +10,7 @@ This repository is a scientific product and is not official communication of the
 
 ### Funding 
 
-This research project is funded in part by the National Marine Fisheries Protected Species Toolbox Initiative.
+This research project is funded, in part, by the National Marine Fisheries Protected Species Toolbox Initiative.
 
 ------------------------------------------------------------------------
 
